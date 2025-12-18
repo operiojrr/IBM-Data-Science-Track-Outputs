@@ -213,3 +213,5 @@ def update_output_container(selected_statistics, input_year):
 # Run the Dash app
 if __name__ == '__main__':
     app.run()
+
+#link for the Dash dashboard: https://operiojrr-8050.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/
